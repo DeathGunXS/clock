@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://images4.alphacoders.com/107/107504.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: rgb(214, 151, 16);
+    text-align: center;
+    margin-top: 120px;
+    font-family: 'Lobster', cursive;
+    align-items: center;
+    text-shadow: 2px 2px black
+    
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'star';
+    font-size: 20px;
+    text-shadow: 5px 5px rgb(0, 0, 0);
+    letter-spacing: 2px
+}
+
+button {
+    color: rgb(255, 238, 0);
+    background-image: url(https://media.istockphoto.com/id/1341635109/photo/spiral-clock-the-flow-of-time-dark-blue-turquoise.jpg?b=1&s=170667a&w=0&k=20&c=33mdp7JGAF44CqZ1cVLdz_thLmVK3IHaLuvUoPMMcTU=);
+    font-family: 'star';
+}
+
+.cronometro {
+    border: 2px solid black;
+    border-radius: 150px;
+    max-width: 250px;
+    align-items: center;
+    margin-left: 460px;
+    background-image: url(https://wallpapers.com/images/hd/grunge-sith-logo-artwork-v0nobz86mo1la5z4.jpg);
+    background-size: 125%;
+    background-repeat: no-repeat;
+    
+}
+
+@font-face {
+    font-family: "star";
+    src: url(Stjldbl1.ttf) format("opentype"),url(Stjldbl1.ttf)
+    format("truetype");
+    font-weight: normal;
+    font-style: normal; 
+}
